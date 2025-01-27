@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">  TODO List</string>    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="get_Started">Jalqabaa</string>
+    <string name="welcome">Baga nagaan dhufte!Seena</string>
+
+    <string name="nav_open">Banaa</string>
+    <string name="nav_close">Cufuu</string>
+    <string name="switch_theme">Mata duree jijjiiri</string>
+    <string name="remove">irraa kaasuu</string>
+    <string name="_00_00">00:00</string>
+    <string name="hint_email">Imeelii galchaa</string>
+    <string name="hint_pass">Password galchi</string>
+    <string name="show_password">Jecha icciitii agarsiisi</string>
+    <string name="login" >Galmaa\'i</string>
+    <string name="don_t_have_account">account hin qabaatin ?</string>
+    <string name="create_account">Herrega Uumuu</string>
+    <string name="hint_name">Maqaa galchi</string>
+    <string name="hint_confirm">Password Mirkaneessi</string>
+    <string name="hint_phone">Lakkoofsa bilbilaa barreessi</string>
+    <string name="register">Galmeessuu</string>
+    <string name="welcome1">Baga nagaan dhufte! Kun application Organizer jedhamudha</string>
+    <string name="help" >    </string>
+    <string name="dash_board">Daashboordii</string>
+    <string name="add_task">Hojii itti dabali</string>
+    <string name="users">Fayyadamtoota</string>
+    <string name="settings">Sajoo</string>
+    <string name="logout" >Ba\'i</string>
+    <string name="exit" >Ba\'uu</string>
+    <string name="add_task1">Hojii Dabaluu</string>
+    <string name="help1">      </string>
+    <string name="home">fuula jalqabaa</string>
+    <string name="help0">gargaaruu</string>
+    <string name="describe_the_todo_task">hojii Todo ibsu...</string>
+    <string name="add_taskD">Hojii Dabaluu</string>
+    <string name="cancelneg">Haquu</string>
+    <string name="add_item">Wanti hojii todo itti dabali</string>
+    <string name="Confirm">\tMirkaneessuu</string>
+    <string name="sure">Mirkaneeffatteettaa</string>
+    <string name="Yes">Eeyyee</string>
+    <string name="no">Lakki</string>
+
+
+</resources>

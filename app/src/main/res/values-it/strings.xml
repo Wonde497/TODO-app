@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">  TODO List</string>    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="get_Started">Iniziare</string>
+    <string name="welcome">Benvenuto!Accedi</string>
+    <string name="nav_open">Aprire</string>
+    <string name="nav_close">Vicino</string>
+    <string name="switch_theme">Switch theme</string>
+    <string name="remove">rimuovere</string>
+    <string name="_00_00">00:00</string>
+    <string name="hint_email">Inserisci l\'email</string>
+    <string name="hint_pass">Parola d\'ordine</string>
+    <string name="show_password">Mostra password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account">non ho un conto?</string>
+    <string name="create_account">Creare un account</string>
+    <string name="hint_name">Inserisci il nome</string>
+    <string name="hint_confirm">Conferma password</string>
+    <string name="hint_phone">Digita il numero di telefono</string>
+    <string name="register">Registrati</string>
+    <string name="welcome1">Benvenuto! Questa è un\'applicazione Organizzatore</string>
+    <string name="help">Puoi elencare tutto ciò che devi FARE, con le attività più importanti in cima all\'elenco e quelle meno importanti in fondo.</string>
+    <string name="dash_board">Pannello di controllo</string>
+    <string name="add_task">Aggiungi attività</string>
+    <string name="users">Utenti</string>
+    <string name="settings">Impostazioni</string>
+    <string name="logout">Disconnettersi</string>
+    <string name="exit">Uscita</string>
+    <string name="add_task1">Aggiungi attività</string>
+    <string name="help1">1.AGGIUNGI ATTIVITA\' PER OGNI SETTIMANA O GIORNO. \ n \ n \ n 2. MANTENERE LE COMPITI IN ORDINE PRELIMINARE. </string>
+    <string name="home">pagina iniziale</string>
+    <string name="help0">aiuto</string>
+    <string name="describe_the_todo_task">descrivere l\'attività Todo...</string>
+    <string name="add_taskD">Aggiungi attività</string>
+    <string name="cancelneg">Annulla</string>
+    <string name="add_item">Aggiungi elemento attività da fare</string>
+    <string name="Confirm">\tConfermare</string>
+    <string name="sure">Sei sicuro</string>
+    <string name="Yes">SÌ</string>
+    <string name="no">NO</string>
+
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">  TODO List</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="get_Started">ጀምር</string>
+
+    <string name="welcome">እንኳን ደህና መጡ!ይግቡ</string>
+    <string name="nav_open">ክፈት</string>
+    <string name="nav_close">ዝጋ</string>
+    <string name="switch_theme">ቲም ቀይር</string>
+    <string name="remove">አስወግድ</string>
+    <string name="_00_00">00:00</string>
+    <string name="hint_email">ኢሜይል አስገባ</string>
+    <string name="hint_pass">የይለፍ ቃል ያስገቡ</string>
+    <string name="show_password">የይለፍ ቃል አሳይ</string>
+    <string name="login">ግባ</string>
+    <string name="don_t_have_account">አካውንት የለዎትም ?</string>
+    <string name="create_account">አካውንት ክፈት</string>
+    <string name="hint_name">ስም ያስገቡ</string>
+    <string name="hint_confirm">የይለፍ ቃል አረጋግጥ</string>
+    <string name="hint_phone"> ስልክ ቁጥር ያስገቡ</string>
+    <string name="register">ይመዝገቡ</string>
+    <string name="welcome1">እንኳን ደህና መጣህ! ይህ Organizer መተግበሪያ ነው</string>
+    <string name="help">እርስዎ ማድረግ ያለብዎትን ሁሉንም ነገር መዘርዘር ይችላሉ፣ በዝርዝሩ አናት ላይ ካሉት በጣም አስፈላጊ ተግባራት፣ እና ከታች ካሉት በጣም አስፈላጊ ተግባራት ጋር።.</string>
+    <string name="dash_board">ዳሽቦርድ</string>
+    <string name="add_task">ተግባር ጨምር</string>
+    <string name="users">ተጠቃሚዎች</string>
+    <string name="settings">ማስተካከያዎች</string>
+    <string name="logout">ውጣ</string>
+    <string name="exit">ከመተግብርያው ይውጡ</string>
+    <string name="add_task1">ተግባር ጨምር</string>
+    <string name="help1">1.ለእያንዳንዱ ሳምንት ወይም ቀን ተግባሮችን ጨምር። \n\n\n 2. ተግባራቶቹን በቅደም ተከተል ያስቀምጡ። \n\n\n 3. ስራው ሲጠናቀቅ ሰርዝ ወይም አስወግድ</string>
+    <string name="home">መነሻ ገጽ</string>
+    <string name="help0">እገዛ</string>
+    <string name="describe_the_todo_task">የሚሰሩትን ተግባር ይግለጹ…</string>
+    <string name="add_taskD">ተግባር ይጨምሩ</string>
+    <string name="cancelneg">ይሰርዙ</string>
+    <string name="add_item">የተግባር ንጥል ነገርን ያክሉ</string>
+    <string name="Confirm">\tያረጋግጡ</string>
+    <string name="sure">እርግጠኛ ነዎት</string>
+    <string name="Yes">አዎ</string>
+    <string name="no">አይ</string>
+
+
+</resources>

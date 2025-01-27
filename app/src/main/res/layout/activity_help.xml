@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Help">
+    <TextView
+        android:id="@+id/tvamharic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="50dp"
+        android:textColor="@color/design_default_color_primary"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:text="1.ለእያንዳንዱ ሳምንት ወይም ቀን ተግባሮችን ጨምር.
+        \n\n\n 2.ተግባራቶቹን በቅደም ተከተል ያስቀምጡ.
+        \n\n\n 3.ስራው ሲጠናቀቅ ሰርዝ ወይም አስወግድ"/>
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="50dp"
+        android:textColor="@color/design_default_color_primary"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:text="@string/help1"/>
+
+
+
+</LinearLayout>

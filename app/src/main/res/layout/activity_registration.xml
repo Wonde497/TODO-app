@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:gravity="center_vertical"
+android:orientation="vertical"
+android:padding="16dp">
+
+<!-- first name EditText -->
+
+<EditText
+    android:id="@+id/name"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:hint="@string/hint_name"
+    android:inputType="textPersonName"
+    android:autofillHints="enter" />
+<!-- second name EditText -->
+
+<!-- email EditText -->
+<EditText
+    android:id="@+id/editTextEmail"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:hint="@string/hint_email"
+    android:inputType="textEmailAddress"/>
+    <!-- Password EditText -->
+<EditText
+    android:id="@+id/editTextPassword"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:hint="@string/hint_pass"
+    android:inputType="textPassword" />
+    <EditText
+        android:id="@+id/confirm_Password"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="@string/hint_confirm"
+        android:inputType="textPassword" />
+
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="@string/hint_phone"
+        android:inputType="phone"/>
+
+<!-- register Button -->
+<Button
+    android:id="@+id/buttonRegister"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="30dp"
+    android:text="@string/register" />
+
+
+</LinearLayout>

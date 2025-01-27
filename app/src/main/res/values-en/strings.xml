@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">  TODO List</string>    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="get_Started">Get Started</string>
+
+    <string name="welcome">Welcome!Login</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="switch_theme">Switch theme</string>
+    <string name="remove">remove</string>
+    <string name="_00_00">00:00</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_pass">Password</string>
+    <string name="show_password">Show password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account">don\'t have account ?</string>
+    <string name="create_account">Create Account</string>
+    <string name="hint_name">Enter name</string>
+    <string name="hint_confirm">Confirm Password</string>
+    <string name="hint_phone">Type phone number</string>
+    <string name="register">Register</string>
+    <string name="welcome1">Welcome! This is an Organizer application</string>
+    <string name="help">You can list everything that you have TO DO, with the most important tasks at the top of the list, and the least important tasks at the bottom.</string>
+    <string name="dash_board">Dash board</string>
+    <string name="add_task">Add task</string>
+    <string name="users">Users</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="exit">Exit</string>
+    <string name="add_task1">Add Task</string>
+    <string name="help1">1.ADD TASKS FOR EACH WEEK OR DAY. \n\n\n 2.KEEP THE TASKS IN PRIOR ORDER. \n\n\n 3.DELETE OR REMOVE WHEN THE TASK IS DONE</string>
+    <string name="home">home</string>
+    <string name="help0">help</string>
+    <string name="describe_the_todo_task">describe the Todo task...</string>
+    <string name="add_taskD">Add Task</string>
+    <string name="cancelneg">Cancel</string>
+    <string name="add_item">Add todo task item</string>
+    <string name="Confirm">\tConfirm</string>
+    <string name="sure">Are you sure</string>
+    <string name="Yes">yes</string>
+    <string name="no">No</string>
+
+
+</resources>
