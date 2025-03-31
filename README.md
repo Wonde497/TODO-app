@@ -36,7 +36,7 @@ _Kotlin | EMV L2 | PCI P2PE_
 • Integrated with Verifone SDKs  
 • Transaction batching & automatic settlement
 • Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
-### 💳 CBE POS (https://github.com/yourrepo/pos-pro)  
+### 💳 CBE POS (https://github.com/yourrepo/pos-pro](https://github.com/Kaleb09/XLS_X990_CBE_COM)  
 _Java | EMV L2 | PCI P2PE_  
 • Full-featured payment terminal app supporting contactless/swipe/insert  
 • Integrated with Verifone SDKs  
