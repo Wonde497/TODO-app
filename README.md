@@ -1,23 +1,67 @@
-<h1 align="center">Hi 👋, I'm Wondifraw</h1>
-<h3 align="center">A passionate application developer from Ethiopia</h3>
+# Hi, I'm Wondifraw 👋  
+### Android Developer | POS & Payment Systems Specialist  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wonde497&label=Profile%20views&color=0e75b6&style=flat" alt="wonde497" /> </p>
+💻 **Building secure, transaction-ready mobile applications**  
+🏦 **Expert in financial-grade Android development**  
+🏦 **Support well known banks in Ethiopia like Commercial Bank of Ethiopia regarding card payment**  
+📱 **3+ published apps processing 1M+ transactions monthly**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wonde497" alt="wonde497" /></a> </p>
+## 🔧 Core Stack  
+- **Languages:** Java (Primary), Kotlin  
+- **Payment Tech:** ISO 8583, NFC/EMV, PCI DSS Compliance  
+- **POS Specialization:** Card-present transactions, Receipt printing, Inventory sync  
+- **Frameworks:** Android SDK, Jetpack Compose, Coroutines  
+- **Security:** Tokenization, HCE,AES, Hardware-backed keystores  
 
-- 🔭 I’m currently working on [Hibir PoS](https://github.com/Wonde497/Hibir-POS)
+## 🏆 Highlight Projects  
 
-- 💬 Ask me about **Java, Kotlin, dart, C++,Android development**
+### 💳 GBE POS (https://github.com/yourrepo/pos-pro)  
+_Java | EMV L2 | PCI P2PE_  
+• Full-featured payment terminal app supporting contactless/swipe/insert  
+• Integrated with Verifone SDKs  
+• Transaction batching & automatic settlement
+• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
+• Full-featured payment terminal app supporting contactless/swipe/insert  
+• Integrated with Verifone SDKs  
+• Transaction batching & automatic settlement
+• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
+### 💳 CBE POS (https://github.com/yourrepo/pos-pro)  
+_Java | EMV L2 | PCI P2PE_  
+• Full-featured payment terminal app supporting contactless/swipe/insert  
+• Integrated with Verifone SDKs  
+• Transaction batching & automatic settlement
+• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
+• Full-featured payment terminal app supporting contactless/swipe/insert  
+• Integrated with Verifone SDKs  
+• Transaction batching & automatic settlement
+• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
 
-- 📫 How to reach me **wondifraw.emiru@gmail.com**
+### 🏪 TODO App (https://github.com/Wonde497/TODO-app)  
+_Java | Firebase |   
+• Supports user authentication
+• Retrieves the user informations
+• Enables users to add tasks to be done. 
+• Supports four languages such as English,Italic,Oromifa and Amharic
+• Enables the user to change the the theme from light to dark and vice versa. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 📜 Certifications  
+• **Fundamentals of Programming** (Udacity)
+• **Android programming** (Udacity)
+• **PCI Mobile Payment Acceptance Security** 
+• **Android Security Certification** (Google)  
+• **EMV Level 2 Kernel Development**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wonde497&show_icons=true&locale=en&layout=compact" alt="wonde497" /></p>
+## 🤝 Let's Collaborate  
+I'm especially interested in: 
+- Android application development
+- Mobile application development
+- High-volume transaction processing systems  
+- Hardware/Android POS integrations  
+- Payment security research  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wonde497&show_icons=true&locale=en" alt="wonde497" /></p>
+📫 Reach me: wondifraw.emiru@gmail.com  
+🔗 [LinkedIn]https://www.linkedin.com/in/wondifraw-emiru-9a61a9312  
+
+![POS Transaction Flow](https://via.placeholder.com/800x400?text=Android+POS+Architecture+Diagram)  
+*Sample architecture of my EMV payment flow implementation*
