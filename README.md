@@ -15,10 +15,21 @@
 
 ## 🏆 Highlight Projects  
 
+
 ### 💳 GBE POS (https://github.com/yourrepo/pos-pro)  
 _Java | EMV L2 | PCI P2PE_  
 • Full-featured payment terminal app supporting contactless/swipe/insert  
 • Integrated with Verifone SDKs  
+• Transaction batching & automatic settlement
+• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
+• Full-featured payment terminal app supporting contactless/swipe/insert  
+• Integrated with Verifone SDKs  
+• Transaction batching & automatic settlement
+• Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
+### 💳 Ahadu POS (https://github.com/yourrepo/pos-pro](https://github.com/Wonde497/Geidea_Ahadu)  
+_Kotlin | EMV L2 | PCI P2PE_  
+• Full-featured payment terminal app supporting contactless/swipe/insert  
+• Integrated with Geidea SDKs  
 • Transaction batching & automatic settlement
 • Purchase,Reversal,refund,balance inquiry,printing reciept and other operations
 • Full-featured payment terminal app supporting contactless/swipe/insert  
